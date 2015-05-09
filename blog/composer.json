@@ -1,0 +1,17 @@
+{
+    "require": {
+        "twig/twig": "1.16.*@dev",
+        "slim/slim": "2.*",
+        "slim/extras": "dev-master",
+        "cbschuld/browser.php": "dev-master",
+        "slim/views": "dev-develop",
+        "illuminate/database": "*",
+        "illuminate/pagination": "*",
+        "twig/extensions": "1.0.*@dev"
+    },
+    "autoload": {
+        "classmap": [
+            "app/models"
+        ]
+    }
+}

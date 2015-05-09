@@ -1,0 +1,769 @@
+.cb_username {
+	font-weight:bold;
+	font-size:1.2em;
+}
+.cb_small {
+	font-size:.8em;
+}
+.cb_my_points {
+	font-weight:bold;
+	font-size:1.2em;
+}
+/* cb_restricted div surrounding restricted content */
+#cb_restricted {
+}
+/* cb_restricted_noaccess div surrounding msg about not enough points to access restricted content */
+#cb_restricted_noaccess {
+}
+/* cb_not_entered div surrounding message when no user cookie found */
+#cb_not_entered {
+}
+#links_div img {
+	border: 0;
+}
+.contest_fb_comments_box {
+	margin: auto;
+}
+.contest_fb_comments_inside {
+	/* background-color: #ff0000; */
+}
+#contest_not_started {
+	text-align: center;
+	background-color: #ffebe8;
+	border:1px solid #c00;
+	padding: 5px;
+}
+#contest_links_table {
+	text-align:center;
+	margin:20px auto;
+	/* width:450px */
+	font-size:0.9em;
+}
+#contest_links_table td {
+	text-align:center;
+	padding: 4px;
+}
+.contest_link_group{
+	/*
+	border: 1px solid #cdcdcd;
+	padding: 5px;
+	background: #fcfcfc;
+	*/
+}
+.contest_link_group_header{
+	font-size:1.3em;
+	line-height:1.5em;
+	font-weight: bold;
+	margin: 30px 0px 10px 0px;
+	
+	/*
+	background: #cdcdcd;
+	padding: 5px 5px 0px 5px;
+	*/
+}
+
+.contest_link_group_header img {
+    float:left;
+    margin-right: 10px;
+}
+.contest_link_group_header span {
+    float:      left;
+}
+.contest_link_description{
+	/* width: 450px; */
+	text-align:left;
+	border-bottom: 1px dashed #DFDFDF;
+}
+.contest_not_running {
+	font-size: 1.3em;
+}
+.contest_not_found {
+	font-size: 1.3em;
+	color: red;
+}
+.contest_url_instructions {
+	font-size:0.9em;
+	margin:5px;
+	text-align:center;
+}
+.contest_link_url {
+	font-size:1.3em;
+	margin:20px;
+	text-align:center;
+}
+
+.contest_leaders_table {
+	/* font-size:1.3em; */
+	margin:20px auto;
+	/* text-align:left; */
+}
+.contest_leaders_table td {
+	border-bottom:1px dashed #efefef;
+	padding:2px 5px;
+	text-align:left;
+}
+
+
+
+.contest_leaders_table a {
+	/* background:url(images/twitter.ico) 0 1px no-repeat; */
+	/* padding-left:20px; */
+	color:#0DB7E2 !important;
+	text-decoration:none;
+}
+
+.contest_leaders_table img.profile_picture_small {
+	padding: 0px 10px 0px 0px;
+	width: 24px;
+	height: 24px;
+}
+
+.contest_leaders_table img.profile_picture_medium {
+	padding: 0px 10px 0px 0px;
+	width: 48px;
+	height: 48px;
+}
+
+.contest_leaders_table .facebook_user_name {
+	padding: 0px 10px 0px 0px;
+}
+
+#cb_leaders_search {
+	float:left;
+	width: 350px;
+	font-size: 12px;
+}
+#cb_leaders_search input {
+	font-size: 12px;
+	line-height: 18px;
+}
+#cb_leaders_search_loading {
+	display: none;
+}
+#cb_leaders_search_results {
+	display: none;
+}
+#cb_leaders_new_search {
+	font-size: 10px;
+}
+.contest_winners_table {
+	font-size:1.1em;
+	margin:20px auto;
+}
+
+.contest_winners_table td {
+	/* border-bottom:1px dashed #efefef; */
+	padding:2px 5px;
+}
+
+.contest_winners_table a {
+	/* background:url(images/twitter.ico) 0 1px no-repeat; */
+	/* padding-left:20px; */
+	color:#0DB7E2 !important;
+}
+.contest_action_account_username {
+    font-size: .8em;
+    text-align: center;
+}
+.contest_action_account_username span {
+    padding-left: 5px;
+}
+#pinterest_points_pinit {
+    text-align: center;
+}
+#pinterest_username_div {
+    display: block;
+    margin: 0px 20px 10px 20px;
+}
+
+tr.thTableOddRow {
+	background-color: #dedede;
+}
+td.contest_points {
+	width:200px;
+	text-align:right;
+	padding-right:100px;
+}
+
+td.contest_username {
+	height:18px;
+	width:130px;
+	white-space: nowrap;
+}
+td.contest_username img{
+	border: 0px;
+	vertical-align: bottom;
+}
+
+td.contest_position {
+	text-align:right;
+	width:auto;
+}
+#getlinks_table td{
+	text-align: left;
+}
+#getlinks_table td.right{
+	text-align: right;
+	white-space:nowrap;
+}
+#getlinks_table th.right{
+	text-align: right;
+	white-space:nowrap;
+	width: 310px;
+}
+#getlinks_table td.username_not_found{
+	background: #FDEEF4;
+	border: 1px dashed #800517;
+	text-align:center;
+}
+#getlinks_table th{
+	border: 0px solid black;
+}
+#contest_user_actions {
+	font-size:.7em;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+td.get_links_step {
+	width:50px;
+	padding-top:10px;
+	vertical-align:top;
+	font-size:14px;
+	line-height:15px;
+	font-weight:bold;
+	color: orange;
+}
+td.get_links_action {
+	vertical-align:top;
+	font-size:14px;
+	line-height:15px;
+	font-weight:bold;
+	color: #555;
+	height: 100px;
+}
+td.share_links_below {
+    height: auto;
+}
+.get_links_button {
+	font-size:.9em;
+	padding:1px;
+	border:1px solid #333;
+	background-color:#ddd;
+	cursor:pointer;
+	float:left;
+	font-weight: bold;
+	white-space:nowrap;
+}
+.get_links_loading {
+	font-size:.9em;
+	padding:2px;
+	float:left;
+	width: 28px;
+	height: 17px;
+	display: none;
+}
+.get_links_loading img {
+	float:left;
+	margin-left: 10px;
+	margin-top: 1px;
+}
+.enter_loading {
+	font-size:.9em;
+	padding:2px;
+	float:left;
+	width: 28px;
+	height: 17px;
+	display: none;
+}
+.enter_loading img {
+	float:left;
+	margin-left: 10px;
+	margin-top: 1px;
+}
+.tablenav {
+	clear: both;
+	height: 30px;
+	margin: 6px 0 4px;
+	vertical-align: middle;
+}
+.tablenav .tablenav-pages {
+	color: #555;
+	float: right;
+	display: block;
+	cursor: default;
+	height: 30px;
+	line-height: 30px;
+	font-size: 11px;
+}
+.tablenav .tablenav-pages a {
+	border-color: #e3e3e3;
+	background: #eee;
+}
+.tablenav .tablenav-pages a:hover {
+	color: #d54e21;
+	border-color: #d54321;
+}
+.tablenav .tablenav-pages a:active {
+	color: #fff !important;
+}
+.tablenav .tablenav-pages .current {
+	background: #dfdfdf;
+	border-color: #d3d3d3;
+}
+.tablenav .dots {
+	border-color: transparent;
+}
+.tablenav .next,.tablenav .prev {
+	border-color: transparent;
+	color: #21759b;
+}
+.tablenav .next:hover,.tablenav .prev:hover {
+	border-color: transparent;
+	color: #d54e21;
+}
+a.page-numbers {
+	border-bottom-color: #B8D3E2;
+}
+.tablenav a.button-secondary {
+	display: block;margin: 3px 8px 0 0;
+}
+
+.tablenav .tablenav-pages a, .tablenav-pages span.current  {
+	text-decoration: none;
+	border: none;
+	padding: 3px 6px;
+	border-width: 1px;
+	border-style: solid;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+.tablenav .displaying-num {
+	margin-right: 10px;
+	font-size: 12px;
+	font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;
+	font-style: italic;
+}
+#a2apage_twitter {
+  display: none;
+}
+#a2apage_facebook {
+  display: none;
+}
+
+/* auto complete */
+ul.smart_autocomplete_container {
+	margin: 10px 0;
+	padding: 3px;
+	background-color: #EEEEEE;
+}
+ul.smart_autocomplete_container li {
+	list-style: none;
+	cursor: pointer;
+	padding: 3px;
+}
+li.smart_autocomplete_highlight {
+	background-color: #5B74A8;
+	color: #FFFFFF;
+}
+
+#facebook_enter {
+    float: left;
+    width: 215px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#facebook_enter p {
+    font-size: 1.1em;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    line-height: 1.8em;
+}
+
+#email_enter {
+    float: left;
+    width: 225px;
+}
+
+#email_enter_button {
+    float: left;
+}
+
+#email_enter p {
+    font-size: 1.1em;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    line-height: 1.8em;
+}
+
+#enter_divider {
+    display: block;
+    float:left;
+    height: 200px;
+    width: 50px;
+    margin-right: 10px;
+    background: url("../images/enter_divider.png") 0 0 no-repeat;
+}
+#enter_divider p {
+    text-align: center;
+    font-weight: bold;
+    color: #555555;
+    font-size: 1.1em;
+    margin-top: 93px;
+}
+
+#new_cbuser_table {
+    width: auto;
+    margin: 30px;
+}
+#new_cbuser_table th {
+    width: 130px;
+    vertical-align: top;
+}
+#new_cbuser_table td {
+    vertical-align: top;
+}
+#new_cbuser_table span.description {
+    display: block;
+    margin: 0 15px 0 15px;
+}
+/* ------------------------------------------------------------------------------------------------------------- BUTTON */
+
+.uibutton { 
+    position: relative; 
+    z-index: 1;
+    overflow: visible; 
+    display: inline-block; 
+    padding: 0.1em 0.4em 0.2em 0.4em;
+    border: 1px solid #999; 
+    border-bottom-color: #888;
+    margin: 0;
+    text-decoration: none; 
+    text-align: center;
+    font: bold 16px/normal 'lucida grande', tahoma, verdana, arial, sans-serif;
+    line-height: 24px;
+    white-space: nowrap; 
+    cursor: pointer; 
+    /* outline: none; */
+    color: #333; 
+    background-color: #ececec;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f5f6f6), to(#e4e4e3));
+    background-image: -moz-linear-gradient(#f5f6f6, #e4e4e3);
+    background-image: -o-linear-gradient(#f5f6f6, #e4e4e3);
+    background-image: linear-gradient(#f5f6f6, #e4e4e3);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#f5f6f6', EndColorStr='#e4e4e3'); /* for IE 6 - 9 */
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #fff;
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #fff;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #fff;
+    /* IE hacks */
+    zoom: 1; 
+    *display: inline; 
+}
+
+.uibutton:hover,
+.uibutton:focus,
+.uibutton:active {
+    border-color: #777 #777 #666;
+}
+
+.uibutton:active {
+    border-color: #aaa;
+    background: #ddd;
+    filter: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+/* overrides extra padding on button elements in Firefox */
+.uibutton::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+/* ............................................................................................................. Icons */
+
+.uibutton.icon:before {
+    content: "";
+    position: relative; 
+    top: 1px; 
+    float:left;
+    width: 24px; 
+    height: 24px; 
+    margin: 0 0.25em 0 -0.25em; 
+    background: url("../images/cb_resources.png") 99px 99px no-repeat;
+}
+
+.uibutton.facebook:before  { background-position: 0 0; }
+.uibutton.twitter:before  { background-position: -24px 0; }
+.uibutton.youtube:before  { background-position: -48px 0; }
+.uibutton.googleplus:before  { background-position: -73px 0; }
+.uibutton.pinterest:before  { background-position: -97px 0; }
+.uibutton.next:before  { float:right; margin: 0 -0.25em 0 0.5em; background-position: -40px 0; }
+
+/* ------------------------------------------------------------------------------------------------------------- BUTTON EXTENSIONS */
+
+/* ............................................................................................................. Small */
+
+.uibutton.small {
+    font-size: 11px;
+    line-height: 17px;
+}
+.uibutton.small.icon:before {
+    content: "";
+    position: relative; 
+    top: 0px; 
+    float:left;
+    width: 16px; 
+    height: 16px; 
+    margin: 0 .25em 0 0; 
+    background: url("../images/icons-16-fullcolor.png") 99px 99px no-repeat;
+}
+
+.uibutton.small.facebook:before  { background-position: 0 0; }
+.uibutton.small.twitter:before  { background-position: -16px 0; }
+.uibutton.small.youtube:before  { background-position: -32px 0; }
+.uibutton.small.googleplus:before  { background-position: -54px 0; }
+.uibutton.small.googlebuzz:before  { background-position: -82px 0; }
+.uibutton.small.next:before  { float:right; margin: 0 -0.25em 0 0.5em; background-position: -40px 0; }
+
+/* ............................................................................................................. Submit, etc */
+
+.uibutton.confirm {
+    border-color: #29447E #29447E #1A356E;
+    color: #fff;
+    background-color: #5B74A8;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#637bad), to(#5872a7));
+    background-image: -moz-linear-gradient(#637bad, #5872a7);
+    background-image: -o-linear-gradient(#637bad, #5872a7);
+    background-image: linear-gradient(#637bad, #5872a7);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#637bad', EndColorStr='#5872a7'); /* for IE 6 - 9 */
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #8a9cc2;
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #8a9cc2;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #8a9cc2;
+}
+
+.uibutton.confirm:active {
+    border-color: #29447E;
+    background: #4F6AA3;
+    filter: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+/* ............................................................................................................. Special */
+
+.uibutton.special {
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    color: #fff;
+    background-color: #69A74E;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#75ae5c), to(#67a54b));
+    background-image: -moz-linear-gradient(#75ae5c, #67a54b);
+    background-image: -o-linear-gradient(#75ae5c, #67a54b);
+    background-image: linear-gradient(#75ae5c, #67a54b);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#75ae5c', EndColorStr='#67a54b'); /* for IE 6 - 9 */
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #98c286;
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #98c286;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #98c286;
+}
+
+.uibutton.special:active {
+    border-color: #3B6E22;
+    background: #609946;
+    filter: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+/* ............................................................................................................. Disabled */
+
+.uibutton.disabled, .uibutton.disabled:active{
+    cursor: default; 
+    border-color: #000;
+    border-bottom-color: #333;
+    color: #333;
+    background-color: #eee;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#aaa), to(#eee));
+    background-image: -moz-linear-gradient(#aaa, #eee);
+    background-image: -o-linear-gradient(#aaa, #eee);
+    background-image: linear-gradient(#aaa, #eee);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#aaaaaa', EndColorStr='#eeeeee'); /* for IE 6 - 9 */
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #999;
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #999;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #999;
+    text-decoration: none;
+}
+
+/* ------------------------------------------------------------------------------------------------------------- BUTTON GROUPS */
+
+.uibutton-group {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    /* IE hacks */
+    zoom: 1; 
+    *display: inline; 
+}
+
+.uibutton-group li {
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.uibutton-group .uibutton {
+    float: left;
+    margin-left: -1px; 
+}
+
+.uibutton + .uibutton,
+.uibutton + .uibutton-group,
+.uibutton-group + .uibutton,
+.uibutton-group + .uibutton-group {
+    margin-left: 3px;
+}
+
+.uibutton-group .uibutton:hover,
+.uibutton-group .uibutton:focus,
+.uibutton-group .uibutton:active {
+    z-index:2;
+}
+
+.uibutton-group > .uibutton:first-child,
+.uibutton-group li:first-child .uibutton { 
+    margin-left: 0; 
+}
+
+/* ------------------------------------------------------------------------------------------------------------- BUTTON CONTAINER */
+/* For mixing buttons and button groups, e.g., in a navigation bar */
+
+.uibutton-toolbar {
+    padding: 6px;
+    border-top: 1px solid #ccc;
+    background: #f2f2f2;
+}
+
+.uibutton-toolbar .uibutton,
+.uibutton-toolbar .uibutton-group {
+    vertical-align: bottom;
+}
+
+/* ------------------------------------------------------------------------------------------------------------- dialog */
+.uidialog {
+	background-color: white;
+	border: 1px #CCC solid;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	color: #333;
+	display: block;
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	/* height: 194px; */
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	text-align: left;
+	width: 520px;
+}
+.uidialog .header {
+	border-bottom-color: #CCC;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-bottom: 5px;
+	text-align: left;
+	width: 100%;
+}
+.uidialog .header .title {
+	padding: 0px 3px 5px 3px;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+.uidialog .header .sub_header {
+	padding: 0px 3px 0px 3px;
+    font-size: 1.3em;
+    font-weight: normal;
+}
+.uidialog .content {
+    width: 100%;
+	margin-bottom: 8px;
+	padding-top: 8px;
+}
+
+.uidialog .content label {
+    font-size: 1.1em;
+}
+
+.uidialog .buttonBar {
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-moz-border-radius: 0px 0px 3px 3px;
+	line-height: 16px;
+	padding: 8px 10px;
+	background-color: #F2F2F2;
+	border-top: 1px solid #CCC;
+	display: block;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	text-align: right;
+}
+
+.uidialog.wide {
+    width: 560px;
+}
+.fb_photo {
+    float: left;
+    width: 178px;
+    height: 122px;
+    margin: 5px 5px 10px 5px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+}
+.frame {
+    display: block;
+    height: 115px;
+    width: 171px;
+    border: 1px solid #333333;
+    /* padding: 4px; */
+    background: #FFFFFF;
+    /* margin-bottom: 6px; */
+    cursor: pointer;
+    position: relative;
+}
+.frame.thumb {
+    top: 4px;
+    left: 4px;
+    -moz-user-select: none;  
+    -webkit-user-select: none;  
+    -ms-user-select: none;
+    position: relative;
+}
+.frame.thumb span { /* background behind thumbnail */
+    background-position: center 25%;
+    background-color: #fafafa;
+    background-repeat: no-repeat;
+    display: block;
+    width: 163px;
+    height: 107px;
+    margin: 4px;
+    overflow: hidden;
+    position: relative;
+}
+.highlighted {
+    background-color: #0000AF;
+    border-color: #0000FF;
+}
+.highlighted img {
+    position: absolute;
+    bottom: 2px;
+    right: 2px;
+    /* margin-top: -26px; */
+}

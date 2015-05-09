@@ -1,0 +1,565 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"background-",
+				"background-attachment"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"a",
+				"arrow"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"cate",
+				"categories_info"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mi",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/liveout"
+	],
+	"file_history":
+	[
+		"/D/duan/Duc/freelancer/fuselms/source-thuy/home.html",
+		"/D/xampp/htdocs/makeitcount/MIC-FE/client/modules/home/views/home.html",
+		"/D/xampp/htdocs/makeitcount/MIC-FE/client/modules/home/views/home-original.html",
+		"/D/xampp/htdocs/makeitcount/MIC-FE/node_modules/body-parser/HISTORY.md",
+		"/D/xampp/htdocs/makeitcount/MIC-FE/client/modules/home/services.js",
+		"/D/xampp/htdocs/makeitcount/MIC-FE/client/modules/home/views/groups-home.html",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/style.css",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/functions.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/header.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/page.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/archive.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/category.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/comments.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/less/_main.less",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/twentyfifteen/sidebar.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/sidebar-content.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/content-page.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/sidebar.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/functions-custom.php",
+		"/D/xampp/htdocs/elecsan/wp-content/themes/elecsan-theme/categoryv.php",
+		"/D/xampp/htdocs/303velocity/Developer/flat-ui/README.md",
+		"/D/xampp/htdocs/303velocity/wordpress/DB/303velocity.sql",
+		"/D/xampp/htdocs/303velocity/wordpress/wp-content/themes/startup/templates/startup-framework/build-wp/flat-ui/README.md",
+		"/D/xampp/htdocs/303velocity/wordpress/wp-content/themes/startup/vendor/Timber/vendor/twig/twig/CHANGELOG",
+		"/D/xampp/htdocs/303velocity/wordpress/wp-includes/ID3/module.audio-video.flv.php",
+		"/D/xampp/htdocs/athlete/assets/sass/modules/feature-side-unit.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/responsive/responsive.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/modules/banner.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/base/elements.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/modules/menu.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/layouts/layouts.sass",
+		"/D/xampp/htdocs/athlete/assets/js/fanbase.js",
+		"/D/xampp/htdocs/athlete/home.html",
+		"/D/xampp/htdocs/athlete/assets/sass/modules/search-box.sass",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/modules/mod_k2_content/tmpl/Default/default.php",
+		"/D/xampp/htdocs/athlete/assets/less/app.scss",
+		"/D/xampp/htdocs/athlete/assets/less/responsive/responsive.scss",
+		"/D/xampp/htdocs/athlete/assets/less/variables.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/feature-side-unit.scss",
+		"/D/xampp/htdocs/athlete/assets/sass/app.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/base/bases-dir.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/modules/facepile-side-unit.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/variables.sass",
+		"/D/xampp/htdocs/athlete/assets/sass/modules/content-card.sass",
+		"/D/xampp/htdocs/athlete/assets/css/app.css",
+		"/D/xampp/htdocs/athlete/assets/less/modules/facepile-side-unit.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/menu.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/search-box.scss",
+		"/D/xampp/htdocs/athlete/assets/less/base/bases-dir.scss",
+		"/D/xampp/htdocs/athlete/assets/less/base/elements.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/modules-dir.scss",
+		"/D/xampp/htdocs/athlete/assets/less/layouts/home.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/top-bar.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/banner.scss",
+		"/D/xampp/htdocs/athlete/assets/less/layouts/responsive.scss",
+		"/D/xampp/htdocs/athlete/assets/less/layouts/layouts-dir.scss",
+		"/D/xampp/htdocs/athlete/assets/css/ionicons.min.css",
+		"/D/xampp/htdocs/athlete/assets/less/plugins/bitters/_variables.scss",
+		"/D/xampp/htdocs/athlete/assets/less/plugins/bitters/_typography.scss",
+		"/D/xampp/htdocs/athlete/assets/less/plugins/bitters/_base.scss",
+		"/D/xampp/htdocs/athlete/assets/less/plugins/plugins-dir.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/content-card.scss",
+		"/D/xampp/htdocs/athlete/assets/less/modules/snipet.scss",
+		"/D/xampp/htdocs/athlete/assets/less/app.css",
+		"/D/xampp/htdocs/athlete/assets/less/plugins/plugins-dir.css",
+		"/D/xampp/htdocs/athlete/assets/less/base/bases-dir.css",
+		"/D/xampp/htdocs/athlete/assets/less/plugins/_plugins-dir.scss",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/js/parallax.js",
+		"/D/xampp/htdocs/minc/wp-config.php",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/style.css",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/configuration.php",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/templates/leadingteams/less/style.less",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/default/template/product/product.tpl",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/leadingteams/template/product/product.tpl",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/js/side-nav.js",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/index.php",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/templates/leadingteams/tpls/blocks/spotlight-3.php",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/leadingteams/stylesheet/stylesheet.css",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/components/com_mijoshop/opencart/vqmod/xml/Prev_Next_Product.xml",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/components/com_mijoshop/opencart/catalog/view/javascript/common.js",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/footer.php",
+		"/C/Users/Computer/Downloads/PriceConnectorTemplate/PriceConnectorTemplate/css/960.css",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/leadingteams/template/product/category.tpl",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/functions.php",
+		"/D/xampp/htdocs/minc/wp-content/plugins/contact-form-7/admin/admin.php",
+		"/D/xampp/htdocs/minc/wp-content/plugins/contact-form-7/wp-contact-form-7.php",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/header.php",
+		"/D/xampp/htdocs/leadingteams/configuration.php",
+		"/D/xampp/htdocs/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/leadingteams/template/product/category.tpl",
+		"/D/xampp/htdocs/leadingteams/components/com_mijoshop/opencart/vqmod/xml/Prev_Next_Product.xml",
+		"/D/xampp/htdocs/leadingteams/components/com_mijoshop/opencart/catalog/controller/product/category.php",
+		"/D/xampp/htdocs/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/leadingteams/template/product/product.tpl",
+		"/D/xampp/htdocs/leadingteams/components/com_mijoshop/opencart/catalog/controller/product/product.php",
+		"/D/xampp/htdocs/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/default/template/product/category.tpl",
+		"/D/xampp/htdocs/leadingteams/components/com_mijoshop/opencart/catalog/view/theme/leadingteams/template/common/header.tpl",
+		"/C/Users/Computer/Downloads/jQuery-Parallax-master(1)/jQuery-Parallax-master/index.html",
+		"/D/xampp/htdocs/infowrap/assets/js/main.js",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/js/jquery.scrollTo-1.4.2-min.js",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/js/jquery.parallax-1.1.3.js",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/js/jquery.localscroll-1.2.7-min.js",
+		"/D/xampp/htdocs/leadingteams/components/com_easyblog/themes/dashboard/system/media.browser.tree-item.ejs",
+		"/D/xampp/htdocs/minc/wp-admin/ms-edit.php",
+		"/D/xampp/htdocs/minc/wp-content/plugins/post-types-order/post-types-order.php",
+		"/D/xampp/htdocs/slices/wp-content/themes/slices-theme/page-locations.php",
+		"/D/xampp/htdocs/minc/wp-content/themes/twentyfourteen/functions.php",
+		"/C/Users/Computer/Desktop/Parallax Demo_files/New folder/jQuery Parallax Plugin Demo.htm",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/js/backgrounds.js",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc-theme/js/kinetics.js",
+		"/D/xampp/htdocs/slices/wp-content/themes/slices-theme/slices/slices-functions.php",
+		"/D/xampp/htdocs/nhanviet/catalog/view/theme/pav_queenbeauty/stylesheet/stylesheet.css",
+		"/D/xampp/htdocs/nhanviet/admin/view/stylesheet/stylesheet.css",
+		"/D/xampp/htdocs/nhanviet/admin/language/vietnamese/common/footer.php",
+		"/D/xampp/htdocs/nhanviet/catalog/view/theme/pav_queenbeauty/stylesheet/customize/demo1.css",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc/style.css",
+		"/D/xampp/htdocs/minc/wp-content/themes/minc/functions.php",
+		"/D/xampp/htdocs/slices/wp-content/themes/slices-theme/functions.php",
+		"/D/xampp/htdocs/minc/wp-content/themes/twentyfourteen/index.php",
+		"/D/xampp/htdocs/minc/wp-content/themes/twentythirteen/functions.php",
+		"/D/xampp/htdocs/ibroker/templates/ibroker/tpls/blocks/header.php",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/templates/leadingteams/tpls/blocks/footer.php",
+		"/D/xampp/htdocs/leadingteams-trung/leadingteams/templates/leadingteams/tpls/blocks/head.php",
+		"/D/xampp/htdocs/csp/configuration.php",
+		"/D/xampp/htdocs/nhanviet/system/library/mail_pav.php",
+		"/D/xampp/htdocs/nhanviet/catalog/view/theme/pav_queenbeauty/template/module/filter.tpl",
+		"/D/xampp/htdocs/nhanviet/catalog/view/theme/pav_queenbeauty/template/module/pavbloglatest.tpl",
+		"/D/xampp/htdocs/nhanviet/catalog/language/vietnamese/module/tnt_newscat.php",
+		"/D/xampp/htdocs/nhanviet/catalog/view/theme/pav_queenbeauty/template/themecontrol/product.tpl",
+		"/D/xampp/htdocs/nhanviet/config.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\makeitcount\\MIC-FE",
+			"D:\\xampp\\htdocs\\303velocity",
+			"D:\\xampp\\htdocs\\athlete",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"--\n",
+			"http://liveout.org/blog/",
+			"http",
+			".btn",
+			"section bg-gray section3",
+			".banner-right",
+			"ng-app",
+			"stepslineChart",
+			"distancelineChart",
+			"gray",
+			"ibox",
+			"ibox float-e-margins",
+			"wrapper wrapper-content",
+			"showDeviceReg",
+			"ng-binding",
+			"dashboard-header",
+			".widget_product_search",
+			".home .widget_product_search",
+			"widget_product_search",
+			"tab1",
+			"Twenty_Eleven_Ephemera_Widget",
+			"Twenty_Eleven_Ephemera_Widget'",
+			"widget_logic.php",
+			"twentyfifteen_entry_meta",
+			"wordpress",
+			"entry-footer",
+			"></",
+			"more-link",
+			"screen-reader-text",
+			".media-body",
+			"the_archive_title",
+			" .site-content",
+			".woocommerce-page",
+			".js",
+			"functions.js",
+			"function.js",
+			"common",
+			"entry-content",
+			"blog-footer",
+			"improved",
+			"one-third column",
+			" Fanbase.showTopMenu();",
+			"var CTAbutton = \"div#banner div.subscriber .btn\";",
+			"12px",
+			">\n",
+			".pinned",
+			"pinned",
+			"fa",
+			"Heavy",
+			"<span>500 new stories</span>",
+			" <div class=\"name\">Kyrie Irving</div>",
+			";\n",
+			"visible",
+			";}",
+			"$helvetica",
+			"$base-font-family",
+			"primary-navigation",
+			"  max-width: 50%;",
+			"50%",
+			"<<",
+			"130px",
+			"intro",
+			"moduleItemComments",
+			"review",
+			"tab-review",
+			".menu-main-menu-container ul li a",
+			".primary-navigation li#menu-item-442",
+			"media",
+			"#review",
+			"$this->data['products'][] = array(",
+			"$categories = $this->model_catalog_product->getCategories($product_id);",
+			"$this->data['text_select'] = $this->language->get('text_select');",
+			"full",
+			"jq17",
+			"<<",
+			"\n<<<<<<< HEAD",
+			"jq17",
+			"$",
+			"section",
+			"$",
+			"Top primary menu",
+			"localScroll",
+			"media",
+			"$",
+			"<?php echo get_template_directory_uri() ?>",
+			" . '/minc-theme/",
+			"/minc-theme",
+			"src=\"",
+			"../images/",
+			" create_post_type_html5",
+			"html5blank",
+			"HTML5 Blank Custom",
+			"By Anonymous",
+			"Minc",
+			"body",
+			"DIENMAYNHANVIET",
+			"By Anonymous",
+			"Trần Anh",
+			"media",
+			"body",
+			"#7b0046",
+			"#topbar",
+			"{.calltoaction font-size: 15px;",
+			"D:\\xampp\\htdocs\\nhanviet",
+			"k2ReadMore",
+			"none",
+			"clr",
+			"();\n",
+			"<<<",
+			"120%",
+			"70px",
+			"#video-head",
+			"formNewLestter"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"http://localhost/liveout/",
+			"col-xs-12 col-md-4 col-sm-4 ",
+			"<span class=\"number\">500 new stories</span>",
+			" <div class=\"name\"><a href=\"javascript:void(0)\">Kyrie Irving</a></div>",
+			"jQuery",
+			"<?php echo get_template_directory_uri() ?>/",
+			"",
+			"src=\"<?php echo get_template_directory_uri() ?> . '/minc-theme/",
+			"images/",
+			"homesection",
+			"home section ",
+			"By: Trung Jimmy",
+			"DIENMAYNHANVIET",
+			"#eb9629",
+			"/home/die58346/public_html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"project": "liveout.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+		],
+		"width": 552.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
