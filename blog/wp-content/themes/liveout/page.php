@@ -13,7 +13,7 @@
 
 get_header(); ?>
 <div class="w-container main-container blog-container">
-    <div class="page-title">The Live Out Spring Giveaway</div>
+    <div class="page-title"><?php echo the_title()?></div>
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post();
 the_content();
 endwhile; else: ?>
