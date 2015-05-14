@@ -12,6 +12,7 @@ $cb_text = array(
 'ENTER_WITH_OAUTH_DESCRIPTION'          => 'If you&apos;re a Facebook user you can easily enter the contest using Facebook.',
 'ENTER_WITH_EMAIL_DESCRIPTION'          => 'Use your email address to enter the contest.',
 'OR'                                    => 'OR',
+'OR_ENTER_EMAIL'								 => 'or enter with your email...',		
 'ALL_FIELDS_ARE_REQUIRED'               => 'All fields are required, please fill in each field.',
 'PAGINATE'                              => 'Displaying %1$s&#8211;%2$s of %3$s',
 'NO_POINTS_AWARDED'                     => 'No points have been awarded for this contest',
@@ -111,7 +112,7 @@ $cb_text = array(
 'POINT_SEARCH_RESULT'                   => '<span class="cb_username"></span> currently has <span class="cb_my_points"></span> points.',
                                             // DO NOT CHANGE <span class="cb_username"></span> OR <span class="cb_my_points"></span> IN POINT_SEARCH_RESULT
 'NEW_SEARCH'                            => 'New Search',
-'FIND_MY_POINTS'                        => 'Find my points:',
+'FIND_YOUR_POINTS'                      => 'Find your points:',
 'SEARCH'                                => 'Search',
 'TWEET_STATUS_HOURS'                    => 'Tweet every x hours must be 1 or greater',
 'END_DATE_IN_PAST'                      => 'Contest End Date cannot be set to a date in the past - to end a Contest NOW use the End Now link.',
