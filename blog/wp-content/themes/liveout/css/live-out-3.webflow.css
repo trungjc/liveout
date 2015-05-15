@@ -1530,12 +1530,13 @@ p {
 }
 .form-header {
   margin-bottom: 5px;
-  color: black;
+  color: black;font-weight:bold;
   font-size: 16px;
 }
+#email_enter_button ,.buttons.wp-form-buttons{border: none}
 .form-text {
   width: 100%;
-  margin-bottom: 5px;
+  margin-bottom: 10px;font-weight:bold;
   float: left;
   color: black;
 }
